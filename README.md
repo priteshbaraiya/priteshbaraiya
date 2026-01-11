@@ -45,10 +45,10 @@
 
 ## 📊 Data Analyst Project Showcase
 
-### 🏨 Hotel Management Data Analysis
-- 📌 Analyzed hotel booking data
+### 🏨 Sales And Super Store Datasets
+- 📌 Analyzed Sales data
 - 📌 Cleaned & processed raw data using **Excel & Python**
-- 📌 Created dashboards in **Power BI**
+- 📌 Created dashboards using **Djngo**
 - 📌 Extracted insights for business decision-making  
 
 🔗 *Project link coming soon*
@@ -57,7 +57,7 @@
 
 ### 📈 Excel Dashboard Projects
 - 📊 Sales Analysis Dashboard  
-- 📉 Profit & Loss Report  
+- 📉 Demand Forecasting
 - 📋 Data Cleaning & Visualization  
 
 🔗 *Excel projects will be uploaded*
@@ -65,7 +65,7 @@
 ---
 
 ### 📊 Power BI Dashboards
-- 📌 Interactive hotel performance dashboard
+- 📌 Interactive sales performance dashboard
 - 📌 KPI tracking & visual storytelling  
 
 🔗 *Power BI reports coming soon*
