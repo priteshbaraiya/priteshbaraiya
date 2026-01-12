@@ -1,4 +1,3 @@
-<img src="https://www.finereport.com/en/wp-content/themes/blogs/images/2019072201A.gif" />
 <h1 align="center">Hi 👋, I'm Pritesh Baraiya</h1>
 
 <p align="center">
